@@ -225,3 +225,4 @@ chrome.runtime.sendMessege(
 
 chrome.runtime.sendMessage({cmd: "inituser" })
 initPageAction()
+initPageList()
