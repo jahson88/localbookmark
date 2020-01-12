@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "网络标签",
+    "description": "记录网络标签."
+  },
+  "appDescription": {
+    "message": "记录网络标签",
+    "description": "记录有意义的网络标签."
+  },
+  "btnTooltip": {
+    "message": "网络标签",
+    "description": "网络标签."
+  }
+}
